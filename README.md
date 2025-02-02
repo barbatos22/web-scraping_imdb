@@ -45,6 +45,7 @@ Correlation between movie duration and ranking position.
 To retrieve data from TMDb, an API key is required. Modify the following script variables with your key:
 
 api_key <- "YOUR_API_KEY"
+
 access_token <- "YOUR_ACCESS_TOKEN"
 
 ## 📄 License
